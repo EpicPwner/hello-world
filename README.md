@@ -10,3 +10,6 @@ Learning to use GitHub
 4. In the previous step I pushed the commit from Git Bash (format - "git push -u https://github.com/'username'/'projectname'.git
 
 And now I will commit a change from Git GUI and push it on github.com
+
+# ___o rashid é gangsta___
+
