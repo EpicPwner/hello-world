@@ -13,3 +13,4 @@ And now I will commit a change from Git GUI and push it on github.com
 
 # ___o rashid é gangsta___
 
+# O rashid é chill
